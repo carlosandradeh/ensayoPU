@@ -1,5 +1,6 @@
 #Fibonacci recursivo
 
+# Este es un mensaje para los alumnos de PU
 def fibonacci(n):
     if n <= 0:
         return []
